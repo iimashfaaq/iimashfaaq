@@ -11,7 +11,7 @@ Here are some ideas to get you started:-->
 - 🌱 I’m currently learning a lot about the field of ComScience and am taking in the joy of learning something new.
 - 👯 I’m looking to collaborate on stuff that may help the future generations to live better lives.
 - 💬 Ask me about the kind of intriguing stuff I like to play around with.
-- ⚡ Fun fact: "Ashfaaq" is not pronounced as you would think it is.
+- ⚡ Fun fact: <b>"Ashfaaq"</b> is not pronounced as you would think it is.
 
 
 
@@ -50,6 +50,6 @@ Here are some ideas to get you started:-->
 ---
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: <b>GitHub Stats</b></summary>
   <img align="left" alt="Github Statistics" src="https://github-readme-stats.vercel.app/api?username=iimashfaaq&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
 </details>
