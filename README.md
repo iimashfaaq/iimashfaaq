@@ -7,8 +7,8 @@ Here are some ideas to get you started:-->
 
 ### CS Grad Student | Autodidact | F1 | Football
 
-- 🔭 I’m currently working [![AppViewX](https://img.shields.io/badge/at-AppViewX-Orange)](https://www.appviewx.com/) as a Product Dev Intern
-- 🌱 I’m currently learning a lot about the field of ComScience and am taking in the joy of learning something new.
+- 🔭 I’m currently learning design concepts and theory on how to provide a better experience for the user.
+- 🌱 I’m currently learning a lot about the field of UI/UX designing and am taking in the joy of learning something new.
 - 👯 I’m looking to collaborate on stuff that may help the future generations to live better lives.
 - 💬 Ask me about the kind of intriguing stuff I like to play around with.
 - ⚡ Fun fact: <b>"Ashfaaq"</b> is not pronounced as you would think it is.
